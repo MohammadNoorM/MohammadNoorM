@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Mohammad Noor 👋
 
-<!--
-**MohammadNoorM/MohammadNoorM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build production-ready SaaS MVPs for non-technical founders —
+you bring the idea, I handle the architecture, the code, and
+everything that has to work correctly on day one: auth, payments,
+and a real deployed product.
 
-Here are some ideas to get you started:
+**What that means for you:** no jargon, no half-built prototype
+you can't hand to another developer, no surprises after launch.
+Just a working product with a clear handoff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Recent work**
+- [Coursaty](https://github.com/MohammadNoorM/Coursaty) — online learning platform · Django, Stripe, Cloudinary
+- [Readly](https://github.com/MohammadNoorM/Readly) — online bookstore with Stripe/PayPal checkout · Django
+- [Inkwell](https://github.com/MohammadNoorM/Inkwell) — subscription blogging platform · Flask, tiered billing
+
+Free scoping call, fixed price, clear delivery date.
+
+**Available for freelance work** → [mohammadnoor.dev](https://mohammadnoor.dev) · [LinkedIn](https://www.linkedin.com/in/mohammad-noor-m-78358a33a/)
